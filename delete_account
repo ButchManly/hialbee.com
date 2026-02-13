@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hi Albee – Account Deletion</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            max-width: 800px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #222;
+        }
+        h1, h2 {
+            color: #111;
+        }
+        a {
+            color: #007AFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Hi Albee Account Deletion</h1>
+
+    <p>
+        Users may delete their Hi Albee account and all associated data at any time directly within the app.
+    </p>
+
+    <h2>How to Delete Your Account</h2>
+    <ol>
+        <li>Open the Hi Albee app</li>
+        <li>Go to <strong>Profile Settings</strong></li>
+        <li>Tap <strong>“Delete Account and All Data”</strong></li>
+        <li>Confirm your deletion request</li>
+    </ol>
+
+    <h2>What Data Is Deleted</h2>
+    <p>
+        When your account is deleted, the following data is permanently removed:
+    </p>
+    <ul>
+        <li>Account information (including email and user ID)</li>
+        <li>Chat history and reflections</li>
+        <li>Insights and reports</li>
+        <li>Enneagram responses</li>
+        <li>Preference and familiarity data</li>
+    </ul>
+
+    <p>
+        Account deletion is permanent and cannot be undone.
+    </p>
+
+    <h2>Data Retention</h2>
+    <p>
+        Some limited technical logs (such as anonymized server logs or crash logs) may be retained temporarily
+        for security, fraud prevention, and system integrity purposes. These logs are automatically deleted
+        within a limited retention period.
+    </p>
+
+    <h2>Need Assistance?</h2>
+    <p>
+        If you experience any issues deleting your account, please contact us at 
+        <a href="mailto:support@hialbee.com">support@hialbee.com</a>.
+    </p>
+</div>
+
+</body>
+</html>
